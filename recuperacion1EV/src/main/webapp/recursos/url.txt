@@ -1,0 +1,2 @@
+* Rollovers y sprites:
+http://librosweb.es/libro/css_avanzado/capitulo_1/rollovers_y_sprites.html

@@ -1,0 +1,44 @@
+header {
+    height: 10%;
+    padding: 0.5em;
+    position: fixed;
+    background-color: rgba(181, 226, 226, 0.8);
+}
+
+#titulo {
+    text-align: center;
+}
+
+nav {
+    margin: auto;
+}
+
+#imagenArticle {
+    height: 60%;
+}
+
+#ahorcado {
+    background-color: #D4F1F1;
+}
+
+#imagenAhorcado {
+    border: 1px solid;
+    height: 100%;
+}
+
+form {
+    text-align: center;
+    margin-top: 2%;
+}
+
+#quienesSomos {
+    border: 1px solid;
+    width: 60%;
+    text-align: center;
+    margin: auto;
+    background-color: #D4F1F1;
+}
+
+footer {
+    background-color: rgba(181, 226, 226, 0.8);
+}
